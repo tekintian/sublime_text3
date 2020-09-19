@@ -17,10 +17,16 @@ Please see https://packagecontrol.io/docs/troubleshooting for help
 
 ### channel_v3.json
 1. 点击 Preferences > Package Settings > Package Control > Settings - User
-2. 添加 `"channels": ["https://raw.githubusercontent.com/HBLong/channel_v3_daily/master/channel_v3.json"],`
+2. 添加 `"channels": ["https://tekintian.coding.net/p/tekin/d/channel_v3_daily/git/raw/master/channel_v3.json"],`
+
+
+
+https://tekintian.coding.net/p/tekin/d/channel_v3_daily/git/raw/master/channel_v3.json
+
 
 
 ### 如何安装 Package Control(离线安装)
+
 1. 点击st3里面的菜单 “Preferences > Browse Packages” 或者  “首选项 > 浏览插件目录”
 2. 此时你所在的目录是 “Sublime Text 3/Packages”，进入到 “Sublime Text 3/Installed Packages”
 3. 下载 [Package Control插件包](https://github.com/HBLong/channel_v3_daily/raw/master/Package%20Control.sublime-package)，将该插件包复制到 "Installed Packages/" 目录内
