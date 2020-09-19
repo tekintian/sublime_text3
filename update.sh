@@ -1,7 +1,7 @@
 #!/bin/bash
 SHELL_FOLDER=$(cd "$(dirname "$0")";pwd)
 
-DATETIME=$(date +"%Y-%m-%dT%H:%M:%S")
+DATETIME=`date +"%Y-%m-%d %H:%M:%S"`
 
 rm -f ${SHELL_FOLDER}/.git/index.lock
 # change workdir to git
